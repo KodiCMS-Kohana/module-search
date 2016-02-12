@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/search",
+	"name":        "kodicms_kohana/search",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS search module",
 	"homepage":    "http://www.kodicms.ru/",
